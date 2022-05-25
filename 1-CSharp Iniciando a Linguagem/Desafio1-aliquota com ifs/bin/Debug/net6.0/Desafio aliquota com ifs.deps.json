@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Desafio aliquota com ifs/1.0.0": {
+        "runtime": {
+          "Desafio aliquota com ifs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio aliquota com ifs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

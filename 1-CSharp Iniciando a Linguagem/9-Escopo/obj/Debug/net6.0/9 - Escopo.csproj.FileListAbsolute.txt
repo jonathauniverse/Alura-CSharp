@@ -1,0 +1,5 @@
+C:\Users\Usuário\source\repos\AluraCSharp\Escopo\obj\Debug\net6.0\9 - Escopo.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\AluraCSharp\Escopo\obj\Debug\net6.0\9 - Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\AluraCSharp\Escopo\obj\Debug\net6.0\9 - Escopo.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\AluraCSharp\Escopo\obj\Debug\net6.0\9 - Escopo.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\AluraCSharp\Escopo\obj\Debug\net6.0\9 - Escopo.csproj.CoreCompileInputs.cache

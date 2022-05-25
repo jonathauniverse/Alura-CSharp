@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\bin\Debug\net6.0\Desafio aliquota com ifs.exe
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\bin\Debug\net6.0\Desafio aliquota com ifs.deps.json
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\bin\Debug\net6.0\Desafio aliquota com ifs.runtimeconfig.json
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\bin\Debug\net6.0\Desafio aliquota com ifs.dll
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\bin\Debug\net6.0\Desafio aliquota com ifs.pdb
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\obj\Debug\net6.0\Desafio aliquota com ifs.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\obj\Debug\net6.0\Desafio aliquota com ifs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\obj\Debug\net6.0\Desafio aliquota com ifs.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\obj\Debug\net6.0\Desafio aliquota com ifs.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\obj\Debug\net6.0\Desafio aliquota com ifs.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\obj\Debug\net6.0\Desafio aliquota com ifs.dll
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\obj\Debug\net6.0\refint\Desafio aliquota com ifs.dll
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\obj\Debug\net6.0\Desafio aliquota com ifs.pdb
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\obj\Debug\net6.0\Desafio aliquota com ifs.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\AluraCSharp\Desafio aliquota com ifs\obj\Debug\net6.0\ref\Desafio aliquota com ifs.dll
